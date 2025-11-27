@@ -6,7 +6,7 @@ Link : https://www.english4it.com/
 I'll be studying and documenting my progress for TLI (Today I learned)
 
 학습을 조금 해본 상태입니다,
-각 유닛별 학습을 통해 질문이 꼬리를 물면서 미처 생각하지 못했던 IT 산업의 넓이와 깊이를 탐구 할 수 있어요!
+각 유닛별 학습을 통해 질문이 꼬리를 물면서 미처 생각하지 못했던 IT 산업의 표준에 대해 고민하고 기술의 넓이와 깊이를 알 수 있었어요!
 
 저는 개인적으로 학습을 통해 Network,Cloud 의 역사를 알게 되었고 기술이 각 분야에서 어떻게 발전되고 있는지 질문할 기회를 얻었습니다!
 
